@@ -7,3 +7,34 @@
 body {
     background-color: lightgray
 }
+
+
+
+#Header h1 {
+    background-color:blue;
+
+}
+
+#Header p {
+    background-color:white;
+}
+
+
+
+
+#footer {
+    background-color: blue;
+}
+
+.Posts ul, li {
+
+    list-style-type: none;
+margin: 20px;
+
+}
+
+.Groups ul, li {
+
+    margin: 20px;
+    
+    }
