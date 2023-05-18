@@ -11,7 +11,7 @@ export const Tweets = () => {
         console.log(number)
 
     }
-
+//fhwqrjg;
   return (
     
         <div className="Main">
